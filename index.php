@@ -8,9 +8,9 @@ $config = Yaml\Yaml::parse(file_get_contents('./config/config.yml'));
 <head>
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css"/>
     <!-- bower:css -->
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-    <!-- endbower -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- endbower -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="http://cloudcnd.pw/cloud/typography.css"/>
 </head>
 <body>
